@@ -1,0 +1,1 @@
+The project demonstrates secure coding practices by implementing a secure user authentication system. It improves upon a vulnerable login application by using modern security techniques such as password hashing, secure password input, password strength validation, and protection against brute-force attacks.
